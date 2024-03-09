@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Domain Expansion Infinity Void</p>
+<p align="center">Domain Expansion Infinity Void</p>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andi8088&label=Profile%20views&color=0e75b6&style=flat" alt="andi8088" /> </p>
