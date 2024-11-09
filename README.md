@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Montenegro</h1>
-<h3 align="center">BSIT- 2 Student</h3>
+<h3 align="center">BSIT- 3 Student</h3>
 
 <br clear="both">
 
